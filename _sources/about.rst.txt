@@ -69,7 +69,7 @@ May 2019
     | *Celery, Nginx, Kubernetes, AWS, CI/CD Travis, Jenkins, Docker, PostgreSQL, MySQL, time series dabatases* 
     | *REST APIs, Rancher, Ansible, ELK stack, Prometheus, Puppet, Agile delivery PM, Scrum master  Typescript*
 
-    * Re-engineered the design of the existing email marketing platform from monolith into microservice and containerised architecture risks of rendering untrusted HTML emails in-browser with a "sandboxed" React component
+    * Re-engineered the design of the existing email marketing platform from monolith into microservice and containerised architecture 
     * Implemented the new design for production roll out
     * Orchestrated the marketing tooling such as MTA, transfer agents to run on containerized environments with scaling
     * Implemented the new infrastructure  for AWS and automated deployment pipelines for the platform and tools around it 
