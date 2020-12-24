@@ -29,7 +29,7 @@ August 2020 - Present
   | **Cloud Platform Engineer**
   | *Trivago N.V* |---| Dusseldorf, North Rhine-Westphalia, Deutschland
 
-  | Working with multiple teams to build and maintain a BI Data Pipeline for SaaS and On-Prem Products
+  | Working with multiple internal teams to build, maintain and enhance data services, big data pipelines and the core streaming infrastrucuture.
   | *Technologies used: GitHub actions, Ansible, Salt, Packer, terraform, Python, Rust, Git, Golang, Apache Kafka, Kubernetes, Bash, Typescript, Rails, Python, and Go*
 
   * Implementing of security capabilities around our big data infrastructure for apache kafka
